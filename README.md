@@ -3,5 +3,5 @@
 This repository will hold the design documentation of IK.
 
 * Documentation
-* Modkups
+* Mockups
 * Visual Designs
